@@ -3,6 +3,10 @@ Detectarea semnelor de circulație
 
 Cod inspirat:
 
+Generative - ChatGPT
+
+OpenCV - https://pypi.org/project/opencv-python/
+
 Codul YOLOv8: https://github.com/ultralytics/ultralytics
 
 Documentația oficială Ultralytics: https://docs.ultralytics.com/
