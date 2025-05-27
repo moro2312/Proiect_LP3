@@ -27,7 +27,7 @@ model = YOLO("yolov8n.pt")  # Poți înlocui cu un model antrenat pe semne de ci
 names = model.names  # Dicționarul cu numele claselor
 
 # Încarcă toate imaginile din folderul "images"
-image_paths = glob.glob("image1.png")
+image_paths = glob.glob("image2.jpg")
 
 # Funcție pentru a adăuga fundal text (pentru lizibilitate)
 def draw_text(img, text, pos, font_scale=0.6, font_thickness=2, text_color=(255, 255, 255), bg_color=(0, 0, 0)):
