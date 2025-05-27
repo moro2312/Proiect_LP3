@@ -5,7 +5,7 @@ Cod inspirat:
 
 Generative - ChatGPT
 
-OpenCV - https://pypi.org/project/opencv-python/
+OpenCV - https://github.com/opencv/opencv-python
 
 Codul YOLOv8: https://github.com/ultralytics/ultralytics
 
